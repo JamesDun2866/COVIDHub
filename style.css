@@ -23,9 +23,13 @@
 	box-sizing: border-box;
 }
 
+html {
+		background-color: #2a2b3d;
+}
+
 body {
 	font-family: 'Inter', sans-serif;
-	background-color: #313348;
+	background-color: #2a2b3d;
 	font-size: .925rem;
 }
 
